@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Everything in Rust<br>💬 Ask me about: Python/Rust<br>
+🌱 I’m currently moving: Everything in Rust<br>💬 Ask me about: Python/Rust<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cain2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
